@@ -16,5 +16,6 @@ console.log(isPangram("this is definitely not a pangram"))
 
 console.log(isPangram("The quick brown fox jumps over the lazy dog"))
 
-//runtime complexity is O(n) since the only variable really is the string, and it will check the whole string to verify all 
+//runtime complexity is O(n) since the only variable really is the sentence, 
+//and it will check the whole string to verify all 
 // if conditions are met. It's ugly but it works so.. 
